@@ -1,0 +1,30 @@
+body {
+background-image: url("bokeh.jpg");
+background-size: cover;
+background-color: #875151;
+}
+
+h2 {
+  font-family: Playfair Display, serif;
+}
+
+.main {
+border: 20px solid;
+border-color: #584646;
+width: 80%;
+margin: auto;
+padding: 20px;
+background-color: #d5d5d5;
+}
+.para {
+  font-family: Asar;
+}
+.firstpara {
+  border-left: 4px solid #584646;
+  padding-left: 10px;
+}
+
+.date {
+  color: #3a3838;
+  font-family: Playfair Display, serif;
+}
